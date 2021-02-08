@@ -31,3 +31,8 @@ I could not get GitK to work on WSL even with the X server. So instead I used lo
 ### 3.3
 
 ![Git Diff](https://github.com/gabeorlanski/oss-repo-template/blob/master/labs/lab-02/git_tag.PNG)
+
+### 3.5 
+
+[Table's Repo](https://github.com/rcos/CSCI-4470-OpenSource/blob/master/Modules/02.Git/Lab-Git.md)
+
