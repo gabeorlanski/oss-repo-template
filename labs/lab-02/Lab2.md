@@ -19,4 +19,15 @@ I could not get GitK to work on WSL even with the X server. So instead I used lo
 ![Git Branching Tutorial](https://github.com/gabeorlanski/oss-repo-template/blob/master/labs/lab-02/git%20branching.PNG)
 
 # PART 3:
+
+### 3.1
+
 [PullReq Fork](https://github.com/gabeorlanski/PullReq)
+
+### 3.2
+
+![Git Diff](https://github.com/gabeorlanski/oss-repo-template/blob/master/labs/lab-02/git_diff.PNG)
+
+### 3.3
+
+![Git Diff](https://github.com/gabeorlanski/oss-repo-template/blob/master/labs/lab-02/git_tag.PNG)
