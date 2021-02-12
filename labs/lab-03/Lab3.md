@@ -1,4 +1,5 @@
-### Venue Project:
+# RCOS Projects:
+### Venue:
 
 * 16 Contributors
 
@@ -32,6 +33,6 @@
 
 ### Gitstats:
 
-The number of lines reported by gitstats is substaintially lower than that from the command line
+The number of lines reported by gitstats is substaintially lower than that from the command line. 61159 lines vs 562692
 
 It also reported 25 authors compared to the 16 on the repo.
