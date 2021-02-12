@@ -1,5 +1,5 @@
 # RCOS Projects:
-### Venue:
+## Venue:
 
 * 16 Contributors
 
@@ -36,3 +36,7 @@
 The number of lines reported by gitstats is substaintially lower than that from the command line. 61159 lines vs 562692
 
 It also reported 25 authors compared to the 16 on the repo.
+
+### Gource: 
+
+It took a few minutes to create the gitstats because it is a very large repository. I do not think it would be possible to create the video. 
