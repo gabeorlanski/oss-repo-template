@@ -27,8 +27,11 @@
                                "${PROJECT_BINARY_DIR}"
                                )
 
+</details>
 
-Tutorial.cxx
+
+<details>
+<summary>Tutorial.cxx</summary>
     
     // A simple program that computes the square root of a number
     #include <cmath>
@@ -57,7 +60,8 @@ Tutorial.cxx
                 << std::endl;
       return 0;
     }
-    
+
+</details>
 ![Screenshot](https://github.com/gabeorlanski/oss-repo-template/blob/master/labs/lab-05/step1.PNG)
 
 
