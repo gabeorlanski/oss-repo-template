@@ -62,6 +62,7 @@
     }
 
 </details>
+
 ![Screenshot](https://github.com/gabeorlanski/oss-repo-template/blob/master/labs/lab-05/step1.PNG)
 
 
